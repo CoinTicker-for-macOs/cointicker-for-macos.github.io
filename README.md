@@ -1,0 +1,1 @@
+# cointicker-for-macos.github.io
